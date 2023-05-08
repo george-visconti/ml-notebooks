@@ -1,2 +1,3 @@
 # ml-notebooks
-ipython notebooks implementing ML algorithms
+
+In this repo are folders to simple ML algorithms implemented in Python3
